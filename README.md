@@ -145,3 +145,9 @@ void tocarBuzzer() {
 
 ## Link do vídeo
 https://youtube.com/shorts/59rSZbRxSzw?feature=shared
+
+## Alunos
+- Danilo Salmen Stocco
+- Diogo Salmen Stocco
+- Felipe Carlos Savoia Glücksman
+- Rafael Senger
