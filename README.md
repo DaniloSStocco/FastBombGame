@@ -61,7 +61,7 @@ void loop() {
 
   bool bomba = random(0, 3) == 0;  // 33% de chance de bomba
 
-  // Acende LEDs vermelhos
+ 
   digitalWrite(ledVermelho[0], HIGH);
   if (bomba) digitalWrite(ledVermelho[1], HIGH);
 
@@ -91,7 +91,7 @@ void loop() {
     }
   }
 
-  // Apaga LEDs vermelhos
+ 
   digitalWrite(ledVermelho[0], LOW);
   digitalWrite(ledVermelho[1], LOW);
 
